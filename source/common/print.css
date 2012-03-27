@@ -275,3 +275,10 @@
 
 }
 
+/* GitHub related */
+
+@media print {
+	.ajax-error-message, #delete-link, #head, #logo-popup,	#markdown-help, .wiki-actions {
+		display: none;
+	}
+}
